@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <MVentory_WysiwygFiles>
+      <active>true</active>
+      <codePool>local</codePool>
+    </MVentory_WysiwygFiles>
+  </modules>
+</config>
